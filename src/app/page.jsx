@@ -1,3 +1,7 @@
+import MainPage from "@/pages/main/main"
+
 export default function Page() {
-  return <h1>Hello, Next.js!</h1>
+  return <>
+    <MainPage/>
+  </>
 }
